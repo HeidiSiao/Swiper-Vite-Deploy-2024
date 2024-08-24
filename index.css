@@ -63,6 +63,16 @@ body {
     border-bottom: 10px solid transparent;
 }
 
+.box {
+    background-color: wheat; 
+    color: rosybrown; 
+    font-size: 28px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .card {
     color: rosybrown;
     background-color: lemonchiffon;
